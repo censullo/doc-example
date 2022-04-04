@@ -30,9 +30,9 @@ To complete the walkthrough, you must have the following.
 ## Step 3: Test the connection
 1. In Google Sheets, choose **Extensions**, **CData Connect Cloud**, **Open**.
 2. Choose **Authorize**.
-3. On the **Authorize App** page, choose **Accept**. If successful, Google returns `Success!`. You can close this tab.
+3. On the **Authorize App** page, choose **Accept**. If successful, Google returns `Success`. You can close this tab.
 4. In Google Sheets, choose **Import**.
 5. For **Choose a Connection**, choose the name of your Amazon DynamoDB connection.
 6. For **Choose a Table**, choose a DynamoDB table.
 7. Choose **Execute**.
-8. For Query Output, choose **Current**. If successful, CData Connect Cloud returns `Query Succeeded!`.
+8. For Query Output, choose **Current**. If successful, CData Connect Cloud returns `Query Succeeded`.
