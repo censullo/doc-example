@@ -4,9 +4,9 @@ In this post, I demonstrate how to connect Google Sheets with an Amazon DynamoDB
 ## Prerequisites
 To complete the walkthrough, you must have the following.
 
-* Google account.
-* CData account. If you don't have one, a free trial is available at https://cloud.cdata.com.
-* AWS account with a DynamoDB table.
+* A Google account.
+* A CData Cloud account. If you don't have one, a free trial is available at https://cloud.cdata.com.
+* An AWS account with a DynamoDB table.
 
 ## Step 1: Create an Amazon DynamoDB connection
 1. Sign in to your CData Connect Cloud account at https://cloud.cdata.com/.
