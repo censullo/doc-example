@@ -14,7 +14,7 @@ To complete the walkthrough, you must have the following.
 3. Choose **Add Connection**.
 4. On the **Add Connection** dialog, choose **Amazon DynamoDB**.
 5. (Optional) On the **Add Amazon DynamoDB Connection** page, edit the **Connection Name** of keep the default.
-6. Enter the **AWS Access Key** and **AWS Secret Key** for the AWS Identity and Access Management (IAM) user. For more information, refer to https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html[Understanding and getting your AWS credentials]. 
+6. Enter the **AWS Access Key** and **AWS Secret Key** for the AWS Identity and Access Management (IAM) user. For more information, refer to [Understanding and getting your AWS credentials](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html). 
 7. Enter the **User** and **Password** of the IAM user.
 8. Choose **Create & Test**. If successful, CData Connect Cloud returns `Connection Saved Successfully!`. Choose **OK**.
 
